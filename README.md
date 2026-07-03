@@ -94,3 +94,6 @@ Pagadala Bhavana
 License
 
 This project is created for educational and internship purposes. You are free to modify and use it for learning.
+
+OUTPUT:
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/64d4eec2-22ad-486b-b6a6-3992c7bc7e1b" />

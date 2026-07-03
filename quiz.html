@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h2>Welcome, <span id="playerName"></span></h2>
+
+    <div id="timer">Time Left: <span id="time">60</span>s</div>
+
+    <div id="quiz">
+        <h3 id="question">Question will appear here</h3>
+
+        <div class="option">
+            <input type="radio" name="answer" id="a" value="0">
+            <label for="a" id="option0"></label>
+        </div>
+
+        <div class="option">
+            <input type="radio" name="answer" id="b" value="1">
+            <label for="b" id="option1"></label>
+        </div>
+
+        <div class="option">
+            <input type="radio" name="answer" id="c" value="2">
+            <label for="c" id="option2"></label>
+        </div>
+
+        <div class="option">
+            <input type="radio" name="answer" id="d" value="3">
+            <label for="d" id="option3"></label>
+        </div>
+
+        <br>
+
+        <button class="btn" id="nextBtn">Next</button>
+    </div>
+
+</div>
+
+<script src="questions.js"></script>
+<script src="script.js"></script>
+
+<script>
+document.getElementById("playerName").innerText =
+localStorage.getItem("username") || "Guest";
+</script>
+
+</body>
+</html>

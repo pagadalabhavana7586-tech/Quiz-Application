@@ -1,16 +1,16 @@
 # Quiz-Application
 
-"COMPANY":CODTECH IT SOLUTIONS
+COMPANY:CODTECH IT SOLUTIONS
 
-"NAME":PAGADALA BHAVANA
+NAME:PAGADALA BHAVANA
 
-"INTERN ID":CITS3043
+INTERN ID:CITS3043
 
-"DOMAIN":JAVA PROGRAMMING
+DOMAIN:JAVA PROGRAMMING
 
-"DURATION":8 WEEKS
+DURATION:8 WEEKS
 
-"MENTOR":NEELA SANTOSH
+MENTOR:NEELA SANTOSH
 
 DESCRIPTION:
  The Quiz Application is a practical and user-friendly project that combines functionality, simplicity, and responsive design. It showcases essential web development skills and provides a strong foundation for building more advanced online examination and learning systems. It is suitable for academic projects, internships, personal portfolios, and learning purposes while demonstrating the ability to create an interactive web application using modern front-end technologies.
